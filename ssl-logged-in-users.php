@@ -1,8 +1,8 @@
 <?php 
 /*
 Plugin Name: SSL for Logged In Users
-Author URI: http://gnetwork.com.au/wordpress/
-Plugin URI: http://gnetwork.com.au/wordpress/
+Author URI: http://gnetwork.com.au/
+Plugin URI: http://gnetwork.com.au/wordpress/ssl-for-logged-in-users-wordpress-plugin/
 Description: Forces all logged in users to stay on SSL connection for improved security.
 Version: 0.1
 License: GPLv2 or later

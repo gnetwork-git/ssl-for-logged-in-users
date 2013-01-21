@@ -1,6 +1,6 @@
 === SSL for Logged In Users ===
 Contributors: gnetworkau
-Donate Link: http://gnetwork.com.au/wordpress/
+Donate Link: http://gnetwork.com.au/wordpress/ssl-for-logged-in-users-wordpress-plugin/
 Tags: ssl, https, secure, security, login, force_ssl
 Requires at least: 2.6
 Tested up to: 3.5
