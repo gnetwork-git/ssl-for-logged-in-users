@@ -45,6 +45,10 @@ Q: There are already SSL plugins available, why this one?
 
 A: I could not find any plugin, that would simply keep the logged in user on SSL for the entire session, hence, SSL for Logged In Users.
 
+Q: Who am I?
+
+A: Wordpress user: <a href="http://profiles.wordpress.org/gnetworkau/">gnetworkau</a> also known as "G". I've been playing with Wordpress for few years, and love it.
+
 
 == Other Notes ==
 
