@@ -6,7 +6,7 @@ Plugin URI: http://gnetwork.com.au/wordpress/
 Description: Forces all logged in users to stay on SSL connection for improved security.
 Version: 0.1
 License: GPLv2 or later
-Author: G - gnetworkau
+Author: gnetworkau
 */
 
 force_ssl_admin(true);
