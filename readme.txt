@@ -1,5 +1,5 @@
 === SSL for Logged In Users ===
-Contributors: G - gnetworkau
+Contributors: gnetworkau, G
 Donate Link: http://gnetwork.com.au/wordpress/
 Tags: ssl, https, secure, security, login, force_ssl
 Requires at least: 2.6
