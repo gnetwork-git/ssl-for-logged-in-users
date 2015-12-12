@@ -47,7 +47,7 @@ A: I could not find any plugin, that would simply keep the logged in user on SSL
 
 Q: Will my website be secure just by using this plugin?
 
-A: It keeps logged in users on SSL connection, so it helps. See plugin page for details, regarding recommended best Wordpress security: <a href="http://gnetwork.com.au/wordpress/ssl-for-logged-in-users-wordpress-plugin/">SSL for Logged In Users</a>
+A: It keeps logged in users on SSL connection, so it helps. See plugin page for details, regarding recommended best Wordpress security: http://gnetwork.com.au/wordpress/ssl-for-logged-in-users-wordpress-plugin/
 
 
 == Other Notes ==
